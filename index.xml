@@ -7,9 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Maestro Creativescape</copyright>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://U1trax.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://U1trax.github.io/about/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://U1trax.github.io/about/</guid>
+      <description>Development Environment
+Windows with WSL2 Dual Boot: Zarin OS, Manjaro i5 7300HQ Dell Inc. 090HMC Nvidia GTX 1050 4GB 24GB SK Hynix DDR4 Lenevo Ideapad Windows AMD RYZEN 3 3200U Radeon Vega 3 4GB RAM  Code and Graphic Editors
+Visual Studio Code with many extensions SUblime Text Editor with minimal plugins Adobe Photoshop Adobe XD  Terminal
+Winwdows Terminal 2.0 Mintty - Cygwin Terminal Emulator  </description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://U1trax.github.io/experience/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://U1trax.github.io/experience/</guid>
+      <description>asjdlasjfdlsjfh Education
+KJ SOMAIYA INSITITUE OF ENGINEERING AND INFORMATION TECHNOLOGY August 2017 - Present Course: BE in Electronics and Telecommunications Overall GPA: 7.2(SEM I-VI)  Achievment
+Facebook&#39;s School of Innovation Programme(SparkAR) March 2020 - June 2020 Learned the concept of augmented reality in a detailed manner, along with 3D modelling of various objects. Gained an all round experience for creating filters based for various social media platforms like Facebook and Instagram.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://U1trax.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://U1trax.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://U1trax.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://U1trax.github.io/projects/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
